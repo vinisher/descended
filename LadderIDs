@@ -1,3 +1,13 @@
-{
-  ID-1: ""
- }
+ID-0: "NormalLadder" | Display: "Normal Ladder"
+ID-1: "IceLadder" | Display: "Ice Ladder"
+ID-2: "AsylumLadder" | Display: "Asylum Super Stars Ladder"
+ID-3: "Puzzle1Ladder" | Display: "Frozen Obsidian"
+ID-4: "NeonLadder" | Display: "Neon Ladder"
+ID-5: "AbelLadder" | Display: "Overtime Ladder"
+ID-6: "LavaLadder" | Display: "Lava Ladder"
+ID-7: "RainbowLadder" | Display: "Rainbow Ladder"
+ID-8: "RockyLadder" | Display: "Rocky Ladder"
+ID-9: "GlassLadder" | Display: "Glass Ladder"
+ID-10: "PartyLadder" | Display: "Party Ladder"
+ID-11: "SwordLadder" | Display: "Sword Ladder"
+ID-12: "EasterLadder" | Display: "Easter Ladder"
